@@ -1,20 +1,18 @@
 # EBT FDL HW 2 - Star Tech Final
 
 ## 📌 Description
-A responsive Star Tech-inspired e-commerce website created as a frontend web development project.
+A Star Tech-inspired e-commerce product detail page showcasing an MSI gaming monitor, created as a frontend web development project.
 
 ## ✨ Features
-- Responsive layout
-- Product sections
-- Navigation bar
-- Product cards
-- Modern UI
-- Mobile-friendly design
+- Top navigation bar with product category links (Server & Storage, Accessories, Gadget, Gaming, TV, Appliance)
+- Product highlight section with image and key features
+- Full specifications table (display, panel, brightness, contrast, refresh rate)
+- Logo, search, offers and account shortcuts in the header
+- PC builder call-out in the navigation
+- Viewport meta tag for mobile rendering
 
 ## 🛠️ Technologies
-- HTML
-- CSS
-- JavaScript
+- HTML5 (with inline CSS styling)
 
 ## 📸 Screenshots
 Add screenshots here.
