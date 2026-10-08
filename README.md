@@ -1,37 +1,31 @@
-# Star Tech - E-Commerce Homepage (Final)
+# EBT FDL HW 2 - Star Tech Final
 
-**Star Tech e-commerce homepage - final version of the front-end homework (HTML, CSS).**
+## 📌 Description
+A responsive Star Tech-inspired e-commerce website created as a frontend web development project.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-jotika--meaw.github.io-blue)](https://jotika-meaw.github.io/EBT-FDL-HW-2-Star-Tech-Final-/)
+## ✨ Features
+- Responsive layout
+- Product sections
+- Navigation bar
+- Product cards
+- Modern UI
+- Mobile-friendly design
 
-## About
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
 
-The final version of the **Star Tech** gadget-shop homepage: a polished static front-end with navigation, offer banners, PC builder call-out, and product cards. This repo completes the homework series started in `EBT-FDL-HW-1`.
+## 📸 Screenshots
+Add screenshots here.
 
-## Features
+## 🌐 Live Demo
+https://jotika-meaw.github.io/EBT-FDL-HW-2-Star-Tech-Final-/
 
-- **Header** with logo, search, offers and account links
-- **PC Builder** and product call-out banners
-- **Product card** showcase
-- **Responsive layout**
+## 🚀 Run Locally
+1. Clone the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
 
-## Tech Stack
-
-- HTML5
-
-## Run Locally
-
-```bash
-git clone https://github.com/jotika-meaw/EBT-FDL-HW-2-Star-Tech-Final-.git
-cd EBT-FDL-HW-2-Star-Tech-Final-
-```
-
-Open `index.html` in your browser, or serve it locally:
-
-```bash
-npx serve .
-```
-
-## Author
-
-**Jotika Das** - [GitHub](https://github.com/jotika-meaw) | [LinkedIn](https://www.linkedin.com/in/jotikadas) | [Email](mailto:jotikadas57@gmail.com)
+## 👩‍💻 Author
+**Jotika Das**
